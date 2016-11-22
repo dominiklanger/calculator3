@@ -18,6 +18,10 @@ Follow these steps to get started:
 
 		$ vagrant ssh dev
 		
+5. Change the directory on your virtual machine:
+
+		$ cd /vagrant
+		
 5. Launch SBT (when you do it the first time, sbt will download some stuff - just be patient for some minutes):
 
         $ sbt
