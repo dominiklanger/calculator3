@@ -30,7 +30,7 @@ Follow these steps to get started:
 
         > re-start
 
-8. On your physical machine, browse to [http://10.100.199.200:8080](http://10.100.199.200:8080/sum/2?addend=10)
+8. On your physical machine, browse to [http://10.100.199.200:8080/sum/2?addend=10](http://10.100.199.200:8080/sum/2?addend=10)
 
 9. Stop the application:
 
